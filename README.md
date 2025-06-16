@@ -92,9 +92,4 @@ conda activate portfolio-optimization
 
 - Dev Patel
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute to or modify this project as needed. Happy portfolio optimization!
 
