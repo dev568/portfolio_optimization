@@ -90,7 +90,7 @@ conda activate portfolio-optimization
 
 ## Contributors
 
-- Mariam Walaa
+- Dev Patel
 
 ## License
 
